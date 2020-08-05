@@ -6,7 +6,7 @@
 
 ## Índice
 
-- [Blibiotecas](#biblitecas)
+- [Blibiotecas](#bibliotecas)
 - [Sobre o Projeto](#sobre-o-projeto)
   - [Feito Com](#feito-com)
 - [Começando](#come%C3%A7ando)
